@@ -1,0 +1,52 @@
+# XML Sitemap and Index Validator | TAVARDT UK
+
+[![XML Sitemap Validator](https://img.shields.io/badge/TAVARDT-Sitemap%20XML-5b3cf5.svg)](https://tools.tavardt.com/uk/xml-sitemap-validator/)
+[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-United%20Kingdom-00C853.svg)](https://ag.tavardt.com/uk/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+
+Technical validation tool for XML sitemaps and sitemap index files, enforcing sitemaps.org protocols, clean namespaces, and crawl integrity.
+
+Engineered and maintained by the web indexing and search infrastructure practice at **[TAVARDT UK](https://ag.tavardt.com/uk/)**.
+
+---
+
+## XML Sitemap Validation Capabilities
+
+* **Protocol Specification Adherence**: Rigorous evaluation of `<urlset>` markup and hierarchical `<sitemapindex>` files.
+* **Attribute Integrity Auditing**: Strict validation of `<loc>` formatting, W3C DateTime compliance for `<lastmod>`, and priority weights.
+* **URL Hygiene and Scheme Safety**: Detection of insecure HTTP endpoints within secure domains and unescaped entities.
+* **Capacity and Quota Governance**: Enforcement of the 50,000 URLs ceiling and 50MB uncompressed file limit.
+* **Sitemap Health Rating**: Objective 0 to 100 benchmark highlighting exact technical remediation priorities.
+
+---
+
+## Installation and Execution
+
+Requires Python 3.8 or higher with standard library only.
+
+```bash
+git clone https://github.com/TAVARDT-UK/xml-sitemap-validator-uk.git
+cd xml-sitemap-validator-uk
+python sitemap_validator.py https://example.co.uk/sitemap.xml
+```
+
+To output machine-readable JSON:
+
+```bash
+python sitemap_validator.py https://example.co.uk/sitemap.xml --json
+```
+
+---
+
+## Online Validation Platform
+
+For interactive sitemap testing and live index health monitoring:
+
+* **[Official XML Sitemap Validator](https://tools.tavardt.com/uk/xml-sitemap-validator/)**
+* **[TAVARDT UK Corporate Portal](https://ag.tavardt.com/uk/)**
+
+---
+
+## Search Indexing and Crawl Architecture Advisory
+
+For enterprise sitemap architecture, crawl budget optimization, and alignment with Sitemaps.org Protocol and Search Crawl Guidelines, contact the specialists at **[TAVARDT UK](https://ag.tavardt.com/uk/contact/)**.
