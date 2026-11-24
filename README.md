@@ -5,7 +5,7 @@
 
 Technical validation tool for XML sitemaps and sitemap index files, enforcing sitemaps.org protocols, clean namespaces, and crawl integrity.
 
-Engineered and maintained by the web indexing and search infrastructure practice at **TAVARDT UK**.
+Engineered and maintained by the web indexing and search infrastructure practice at **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python sitemap_validator.py https://example.co.uk/sitemap.xml -json
 For interactive sitemap testing and live index health monitoring:
 
 * **Official XML Sitemap Validator**
-* **TAVARDT UK Corporate Portal**
+* **TAVARDT Corporate Portal**
 
 ***
 
 ## Search Indexing and Crawl Architecture Advisory
 
-For enterprise sitemap architecture, crawl budget optimization, and alignment with Sitemaps.org Protocol and Search Crawl Guidelines, contact the specialists at **TAVARDT UK**.
+For enterprise sitemap architecture, crawl budget optimization, and alignment with Sitemaps.org Protocol and Search Crawl Guidelines, contact the specialists at **TAVARDT**.
 
 ***
 
