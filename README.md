@@ -2,6 +2,7 @@
 
 [![XML Sitemap Validator](https://img.shields.io/badge/TAVARDT-Sitemap%20XML-5b3cf5.svg)](https://tools.tavardt.com/uk/xml-sitemap-validator/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Technical validation tool for XML sitemaps and sitemap index files, enforcing sitemaps.org protocols, clean namespaces, and crawl integrity.
 
@@ -48,7 +49,7 @@ For interactive sitemap testing and live index health monitoring:
 
 ## Search Indexing and Crawl Architecture Advisory
 
-For enterprise sitemap architecture, crawl budget optimization, and alignment with Sitemaps.org Protocol and Search Crawl Guidelines, contact the specialists at **TAVARDT**.
+For enterprise sitemap architecture, crawl budget optimisation, and alignment with Sitemaps.org Protocol and Search Crawl Guidelines, contact the specialists at **TAVARDT**.
 
 ***
 
