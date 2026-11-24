@@ -53,4 +53,12 @@ For enterprise sitemap architecture, crawl budget optimisation, and alignment wi
 
 ***
 
+## Useful Links
+
+* **Corporate Portal:** https://ag.tavardt.com/uk/
+* **Diagnostic Suite:** https://tools.tavardt.com/uk/
+* **Technical Contact:** https://ag.tavardt.com/uk/contact/
+
+***
+
 © 2026 TAVARDT. All rights reserved.
