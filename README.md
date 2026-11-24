@@ -1,4 +1,4 @@
-# XML Sitemap and Index Validator | TAVARDT UK
+# XML Sitemap and Index Validator
 
 [![XML Sitemap Validator](https://img.shields.io/badge/TAVARDT-Sitemap%20XML-5b3cf5.svg)](https://tools.tavardt.com/uk/xml-sitemap-validator/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ For interactive sitemap testing and live index health monitoring:
 ## Search Indexing and Crawl Architecture Advisory
 
 For enterprise sitemap architecture, crawl budget optimization, and alignment with Sitemaps.org Protocol and Search Crawl Guidelines, contact the specialists at **TAVARDT UK**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
