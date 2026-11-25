@@ -61,4 +61,9 @@ For enterprise sitemap architecture, crawl budget optimisation, and alignment wi
 
 ***
 
+### License
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
+
+***
+
 © 2026 TAVARDT. All rights reserved.
